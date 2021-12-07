@@ -2,3 +2,5 @@ esta es la prueba de funcionamiento del git en linux
 espero esto me sirva de manera corrrecta
 en windows la integracion del git con el github me daba problema
 espero ue con esta nueva verion no pase lo mismo.
+
+Ahora es momento de verificar si el archivo se puede agregar al github que es donde nos habiamos quedado, continuamos con la practica.
